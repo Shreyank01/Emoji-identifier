@@ -1,0 +1,20 @@
+body {
+    text-align:center;
+    background-color:cyan;
+}
+
+.heading {
+    width:100%;
+    font-size: 20px;
+}
+.objects , #object_name ,#object_name_accuracy  {
+    color:rgb(34, 34, 34);
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#camera {
+    border: dotted 2px;
+    height:300px;
+    width:300px;
+}
